@@ -1,6 +1,6 @@
 # 📊 E-commerce Sales & Margin Performance Analytics (Power BI & Tableau)
 
-> **Educational Pet Project** | Multi-tool BI implementation (Power BI Desktop & Tableau Public) utilizing an open-source retail transactions dataset from Kaggle.
+> **Pet Project** | Multi-tool BI implementation (Power BI Desktop & Tableau Public) utilizing an open-source retail transactions dataset from Kaggle.
 
 ---
 
@@ -12,7 +12,7 @@
 ---
 
 ## 🎯 Project Overview & Objectives
-The purpose of this educational project was to build an end-to-end analytical pipeline across two major BI platforms (**Power BI** and **Tableau**) using the same transactional data:
+The purpose of this project was to build an end-to-end analytical pipeline across two major BI platforms (**Power BI** and **Tableau**) using the same transactional data:
 1. **Model & Clean Data:** Process raw transaction logs and implement Star Schema modeling.
 2. **DAX & Calculated Fields:** Build robust dynamic measures for YoY analysis and profitability.
 3. **Executive UX Design:** Assemble structured two-page dashboards adhering to commercial container design (Card UI) and balanced color hierarchy.
@@ -60,7 +60,7 @@ The purpose of this educational project was to build an end-to-end analytical pi
 * **Relationship:** Unidirectional `1:*` relationship from `Dim_Date[Date]` to `Fact_Sales[Order Date]`.
 # 📊 Аналітика продажів та рентабельності E-commerce (Power BI та Tableau)
 
-> **Навчальний пет-проєкт** | Реалізація аналітичного рішення на двох платформах (Power BI Desktop та Tableau Public) на основі відкритого датасету роздрібних транзакцій із Kaggle.
+> **Пет-проєкт** | Реалізація аналітичного рішення на двох платформах (Power BI Desktop та Tableau Public) на основі відкритого датасету роздрібних транзакцій із Kaggle.
 
 ---
 
@@ -72,7 +72,7 @@ The purpose of this educational project was to build an end-to-end analytical pi
 ---
 
 ## 🎯 Мета та опис навчального проєкту
-Метою цього навчального проєкту є наскрізне моделювання та візуалізація одного й того самого датасету у двох провідних BI-середовищах (**Power BI** та **Tableau**) для порівняння їхньої архітектури:
+Метою цього проєкту є наскрізне моделювання та візуалізація одного й того самого датасету у двох провідних BI-середовищах (**Power BI** та **Tableau**) для порівняння їхньої архітектури:
 1. **Очищення та структурування:** Обробка відкритих даних із Kaggle та побудова реляційної моделі (схема «Зірка»).
 2. **Розрахунок бізнес-показників:** Реалізація розрахунків рентабельності та порівняння рік-до-року (YoY) через DAX та Calculated Fields.
 3. **UX/UI дашбордів:** Верстка двосторінкового звіту за комерційними стандартами контейнерного дизайну (Card UI) та мінімалістичної колірної гами.
